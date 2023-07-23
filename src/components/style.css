@@ -1,0 +1,28 @@
+
+/* login & register page */
+
+.login,
+.register,
+.image {
+  min-height: 87vh;
+  margin-top: 17px;
+}
+
+.bg-login-image {
+  background-image: url('/src/images/login.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.bg-register-image {
+  background-image: url("/src/images/register.webp");
+  background-size: cover;
+  background-position: center center;
+  filter: brightness(0.9);
+}
+
+.error{
+  font-size: small;
+  color: red;
+  margin-left: 15px;
+}
