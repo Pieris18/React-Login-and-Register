@@ -102,7 +102,7 @@ function Register() {
                                     Register
                                 </button>
 
-                                <div className="text-center d-flex justify-content-between mt-3"><p> Need a create account? 
+                                <div className="text-center d-flex justify-content-between mt-3"><p> Already have an account? 
                                     <Link to="/Login" class="font-italic text-muted"> <u>Login here</u></Link></p>
                                 </div>
                             </form>
